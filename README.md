@@ -1,6 +1,6 @@
 # ChickenAndChips
 
-## Quiz alarm idea:
+## Quiz alarm / app interception idea:
 
 Key Features:
 
